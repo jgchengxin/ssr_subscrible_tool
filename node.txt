@@ -3,9 +3,9 @@
 ssr://bGF5ZXJjbTA1LmluaXRjbG91ZC5wcm86NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cS1QNXBlbDZMLWU1bzZsNVltTjZLLTM1WS16Nzd5STViZW03N3lKNXJ1UiZwcm90b3BhcmFtPU5EZzFNekE2VEV4TWFYVnBkV2wxTnpnM09EYzQmb2Jmc3BhcmFtPQ
 ssr://aW5pdGVzdDA4LmluaXRjbG91ZC5wcm86NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUS8_cmVtYXJrcz01cHlBNUxpSzVwYTU2SzZpNlppRjZZQ0o1b3VwNG9DYzVwdTA1cGF3NG9DZCZwcm90b3BhcmFtPU5EZzFNekE2VEV4TWFYVnBkV2wxTnpnM09EYzQmb2Jmc3BhcmFtPQ
 1yuan100g3ge
-trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%AD%895%E7%A7%92%E5%8F%B3%E4%B8%8B%E8%A7%92%E6%98%BE%E7%A4%BA%E2%80%9C%E6%88%90%E5%8A%9F%E2%80%9D%E5%90%8E
-trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B3%E4%B8%8A%E8%A7%92%E2%80%9C%E6%B5%8B%E8%AF%95%E5%85%A8%E9%83%A8%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5%E2%80%9D
+trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%AD%895%E7%A7%92%E5%8F%B3%E4%B8%8B%E8%A7%92%E6%98%BE%E7%A4%BA%E2%80%9C%E6%88%90%E5%8A%9F%E2%80%9D%E5%90%8E
+trojan://7dc3a0b7-0930-42da-a6be-2a8623cdcfb4@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B3%E4%B8%8A%E8%A7%92%E2%80%9C%E6%B5%8B%E8%AF%95%E5%85%A8%E9%83%A8%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5%E2%80%9D
 houmianshi2yuan de 
 trojan://de2804e0-b99d-47fa-9828-62f8247c8335@kr.stablize.top:443?tfo=1#%E9%80%89%E6%8B%A9%E4%BB%BB%E6%84%8F%E2%80%9C%E9%9D%9E-1ms%E2%80%9D%E7%BA%BF%E8%B7%AF%E5%8D%B3%E5%8F%AF
 trojan://de2804e0-b99d-47fa-9828-62f8247c8335@kr.stablize.top:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
@@ -27,20 +27,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXqeS9juWzsOWwhumHjeWQr+acjeWKoeWZqCIs
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWxiuaXtumDqOWIhue6v+i3r+Wwhui2heaXtiIsDQogICJhZGQiOiAiMTE4Lndnb25nMS50b3AiLA0KICAicG9ydCI6ICI1MjIxOCIsDQogICJpZCI6ICI2MjAyZTFkNy1hY2YxLTNiZWItYWU3YS0zNDgwZDdkYjU2MTAiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS7peS4iuS4iee6v+i3r+S7heaXqeS9juWzsOWkh+eUqCIsDQogICJhZGQiOiAiMTE5Lndnb25nMS50b3AiLA0KICAicG9ydCI6ICI1MjIxOSIsDQogICJpZCI6ICI2MjAyZTFkNy1hY2YxLTNiZWItYWU3YS0zNDgwZDdkYjU2MTAiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS7heaciTbmnaHnur/ot6/or7fogZTns7vlrqLmnI3ljYfnuqciLA0KICAiYWRkIjogIjQud2dvbmcxLnRvcCIsDQogICJwb3J0IjogIjExMjA0IiwNCiAgImlkIjogIjYyMDJlMWQ3LWFjZjEtM2JlYi1hZTdhLTM0ODBkN2RiNTYxMCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-2个安卓后面的2元 9856996 291735225
-trojan://62326316-9ec6-43af-a210-b755e3e9623f@usajs.stablize.top:443?tfo=1#US001
-trojan://62326316-9ec6-43af-a210-b755e3e9623f@usajs.stablize.top:443?tfo=1#US002
-trojan://62326316-9ec6-43af-a210-b755e3e9623f@aujs.stablize.top:443?tfo=1#AU001
-trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@hkjs.stablize.top:443?tfo=1#HK003
-trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@hkjs.stablize.top:443?tfo=1#HK001
-trojan://62326316-9ec6-43af-a210-b755e3e9623f@dejs.stablize.top:443?tfo=1#DE001
-trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@ukjs.stablize.top:443?tfo=1#UK001
+
 新增一个安卓专用的98985988@qq.com 极简的
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImNoYXRncHTkuJPnur8iLA0KICAiYWRkIjogIjMud2dvbmcxLnRvcCIsDQogICJwb3J0IjogIjExMjAzIiwNCiAgImlkIjogIjYyMDJlMWQ3LWFjZjEtM2JlYi1hZTdhLTM0ODBkN2RiNTYxMCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 xsdwm2008 1yuan100g
 trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A9%E4%BD%8E%E5%B3%B0%E9%A6%99%E6%B8%AF%E6%B5%8B%E8%AF%951
 trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A9%E4%BD%8E%E5%B3%B0%E9%A6%99%E6%B8%AF%E6%B5%8B%E8%AF%952
-trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A9%E4%BD%8E%E5%B3%B0%E6%B5%8B%E8%AF%95%E6%97%A5%E6%9C%AC1
-trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A9%E4%BD%8E%E5%B3%B0%E6%B5%8B%E8%AF%95%E6%96%B0%E5%8A%A0%E5%9D%A11
-trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A9%E4%BD%8E%E5%B3%B0%E7%BE%8E%E5%9B%BD%E6%B5%8B%E8%AF%951
-trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A9%E4%BD%8E%E5%B3%B0%E7%BE%8E%E5%9B%BD%E6%B5%8B%E8%AF%952
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E8%8B%B1%E5%9B%BD
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://2e31a75e-ce52-4d2c-95e1-41c8acdbc80c@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A11
