@@ -27,11 +27,8 @@ trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@de.stablize.top:443?tfo=1#DE%E5%BE
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@usajs.stablize.top:443?tfo=1#US%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@dejs.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
 8599123@qq.com 2.88T给安卓用  最迟到7.1日用完
-15080868476@163.com给安卓用户后面5个测试线路 chuangqi
-trojan://5c6332d1-cf03-4d74-90e3-cf2d9ab9af24@ctsg1.createmofa.xyz:37999?sni=sg1.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-1
-trojan://5c6332d1-cf03-4d74-90e3-cf2d9ab9af24@ctjp1.createmofa.xyz:38999?sni=jp1.ctjsq.xyz#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC-1
-trojan://5c6332d1-cf03-4d74-90e3-cf2d9ab9af24@cttw1.createmofa.xyz:34999?sni=tw1.ctjsq.xyz#%F0%9F%87%B9%F0%9F%87%BC+%E5%8F%B0%E6%B9%BE-1
-trojan://5c6332d1-cf03-4d74-90e3-cf2d9ab9af24@cttw1.createmofa.xyz:34999?sni=tw1.ctjsq.xyz#%F0%9F%87%B9%F0%9F%87%BC+%E5%8F%B0%E6%B9%BE-1
+15080868476@163.com给安卓用户后面5个测试线路 
+
 8526967@qq.com 2.88T流量未用 给安卓用 最迟7.1日用完
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiNWY2YWI4MmMtZmM2Ni0zZjNlLTliN2YtMDM2ZmEzMGNkMTE4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQyIiwNCiAgImFkZCI6ICI0LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjA0IiwNCiAgImlkIjogIjVmNmFiODJjLWZjNjYtM2YzZS05YjdmLTAzNmZhMzBjZDExOCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
