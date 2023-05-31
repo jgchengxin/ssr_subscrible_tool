@@ -3,9 +3,9 @@
 trojan://b88edfd4-23eb-4544-9bbc-a68914952905@in.stablize.top:443?tfo=1#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://b88edfd4-23eb-4544-9bbc-a68914952905@kr.stablize.top:443?tfo=1#%E7%AD%895%E7%A7%92%E5%90%8E%E6%98%BE%E7%A4%BA%E6%88%90%E5%8A%9F%E5%86%8D%E8%BF%9E%E6%8E%A5
 trojan://b88edfd4-23eb-4544-9bbc-a68914952905@usajs.stablize.top:443?tfo=1#%E5%8F%B3%E4%B8%8A%E8%A7%92%E7%82%B9%E6%B5%8B%E8%AF%95%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5
-trojan://ad7a2d36-d27b-411e-8e2f-41fea06ef00f@sg.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
-trojan://ad7a2d36-d27b-411e-8e2f-41fea06ef00f@jp.stablize.top:443?tfo=1#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
-trojan://ad7a2d36-d27b-411e-8e2f-41fea06ef00f@kr.stablize.top:443?tfo=1#%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://b3270ddb-b053-41f7-958f-d513836a813f@jp.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
+trojan://b3270ddb-b053-41f7-958f-d513836a813f@kr.stablize.top:443?tfo=1#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
+trojan://b3270ddb-b053-41f7-958f-d513836a813f@kr.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://ad7a2d36-d27b-411e-8e2f-41fea06ef00f@jp.stablize.top:443?tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@sg.stablize.top:443?tfo=1#%E5%8D%95%E7%8B%AC%E4%BF%9D%E5%AD%98office%E6%95%99%E5%AD%A6%E5%8F%91%E8%B4%A7%E5%86%85%E5%AE%B9
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@usa.stablize.top:443?tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
@@ -24,9 +24,16 @@ trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@sg.stablize.top:443?tfo=1#SG%E6%96
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD002
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@usajs.stablize.top:443?tfo=1#US%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@dejs.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
-8599123@qq.com 2.88T给安卓用  最迟到7.1日用完
-15080868476@163.com给安卓用户后面5个测试线路 
-
+16和17号创奇
+trojan://51cc3887-6398-4f1b-a259-6d53c751672d@ctsg1.createmofa.xyz:37999?sni=sg1.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-1
+trojan://51cc3887-6398-4f1b-a259-6d53c751672d@ctjp1.createmofa.xyz:38999?sni=jp1.ctjsq.xyz#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC-1
+trojan://51cc3887-6398-4f1b-a259-6d53c751672d@cthk2.createmofa.xyz:35998?sni=hk2.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-2
+trojan://51cc3887-6398-4f1b-a259-6d53c751672d@cttw1.createmofa.xyz:34999?sni=tw1.ctjsq.xyz#%F0%9F%87%B9%F0%9F%87%BC+%E5%8F%B0%E6%B9%BE-1
+trojan://51cc3887-6398-4f1b-a259-6d53c751672d@ctus1.createmofa.xyz:33999?sni=us1.ctjsq.xyz#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD-1
+vmess://eyJhZGQiOiJjZG4teGpwMy5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anAzLmNxanNsLnh5eiIsImlkIjoiODVjMjc2MTktZmQxNC00ODkzLWE1NmUtMDU5NDQzMjZjNmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNETuWkh+eUqC0zIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anAzLmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJjZG4teGpwNC5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA0LmNxanNsLnh5eiIsImlkIjoiODVjMjc2MTktZmQxNC00ODkzLWE1NmUtMDU5NDQzMjZjNmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNETuWkh+eUqC00Iiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA0LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJjZG4teGpwNS5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA1LmNxanNsLnh5eiIsImlkIjoiODVjMjc2MTktZmQxNC00ODkzLWE1NmUtMDU5NDQzMjZjNmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNETuWkh+eUqC01Iiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA1LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://85c27619-fd14-4893-a56e-05944326c6f9@cthk2.createmofa.xyz:35998?sni=hk2.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-2
 8526967@qq.com 2.88T流量未用 给安卓用 最迟7.1日用完
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiNWY2YWI4MmMtZmM2Ni0zZjNlLTliN2YtMDM2ZmEzMGNkMTE4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQxIiwNCiAgImFkZCI6ICIxOC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIxOCIsDQogICJpZCI6ICI1ZjZhYjgyYy1mYzY2LTNmM2UtOWI3Zi0wMzZmYTMwY2QxMTgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
