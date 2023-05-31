@@ -11,6 +11,15 @@ trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@sg.stablize.top:443?tfo=1#%E5%8D%9
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@usa.stablize.top:443?tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@de.stablize.top:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@jp.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
+6.1剩余极简
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWmguaenOe6v+i3r+WHuueOsOKAnC0xbXPigJ3ml6Dms5Xmm7TmlrAiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiMzA2Y2Y0ZjItOWRmYi0zNjZiLWI2ZGQtZDgxYTI4ODNjMzU0IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIumAieaLqeS4gOS4quWPr+eUqOeahOe6v+i3r+i/nuaOpeedgOabtOaWsOiuoumYhSIsDQogICJhZGQiOiAiNC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICIzMDZjZjRmMi05ZGZiLTM2NmItYjZkZC1kODFhMjg4M2MzNTQiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+6.1临时用剩余found
+trojan://ce2c94f4-4de3-4704-a1f7-bc8b52df17b4@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20001
+trojan://ce2c94f4-4de3-4704-a1f7-bc8b52df17b4@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20005
+trojan://c6c74465-9600-4462-933c-bd0b2494f188@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20001
+trojan://c6c74465-9600-4462-933c-bd0b2494f188@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20002
+
 邮箱的found 1 2 3
 trojan://858ad8e5-1566-46cd-a8d8-30d20a6a1b19@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E9%A6%99%E6%B8%AF%20-%20001
 trojan://858ad8e5-1566-46cd-a8d8-30d20a6a1b19@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%97%A5%E6%9C%AC%20-%20001
