@@ -11,13 +11,9 @@ trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@sg.stablize.top:443?tfo=1#%E5%8D%9
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@usa.stablize.top:443?tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@de.stablize.top:443?tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
 trojan://90a0fed1-c27c-4eab-95d6-12f038ced5ab@jp.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
-
-6.1临时用剩余found
-trojan://ce2c94f4-4de3-4704-a1f7-bc8b52df17b4@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20001
-trojan://ce2c94f4-4de3-4704-a1f7-bc8b52df17b4@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20005
-trojan://c6c74465-9600-4462-933c-bd0b2494f188@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20001
-trojan://c6c74465-9600-4462-933c-bd0b2494f188@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20002
-
+安卓found 12
+trojan://157aa20b-148e-49bf-8e96-812027eedb41@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20004
+trojan://6274ef15-8769-46f3-ba96-b21874fcbfc1@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#gpt%E7%BE%8E%E5%9B%BD%20-%20001
 新增一个2元 线路名字的 746799@qq.com
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
@@ -25,15 +21,12 @@ trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@de.stablize.top:443?tfo=1#DE%E5%BE
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@usajs.stablize.top:443?tfo=1#US%E7%BE%8E%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
 trojan://159ab107-bfed-49b0-981d-5facd7e5e1c2@dejs.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD%E6%B5%81%E5%AA%92%E4%BD%93%E8%8A%82%E7%82%B9001
 16和17号创奇
-trojan://51cc3887-6398-4f1b-a259-6d53c751672d@ctsg1.createmofa.xyz:37999?sni=sg1.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-1
-trojan://51cc3887-6398-4f1b-a259-6d53c751672d@ctjp1.createmofa.xyz:38999?sni=jp1.ctjsq.xyz#%F0%9F%87%AF%F0%9F%87%B5+%E6%97%A5%E6%9C%AC-1
-trojan://51cc3887-6398-4f1b-a259-6d53c751672d@cthk2.createmofa.xyz:35998?sni=hk2.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-2
-trojan://51cc3887-6398-4f1b-a259-6d53c751672d@cttw1.createmofa.xyz:34999?sni=tw1.ctjsq.xyz#%F0%9F%87%B9%F0%9F%87%BC+%E5%8F%B0%E6%B9%BE-1
-trojan://51cc3887-6398-4f1b-a259-6d53c751672d@ctus1.createmofa.xyz:33999?sni=us1.ctjsq.xyz#%F0%9F%87%BA%F0%9F%87%B8+%E7%BE%8E%E5%9B%BD-1
-vmess://eyJhZGQiOiJjZG4teGpwMy5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anAzLmNxanNsLnh5eiIsImlkIjoiODVjMjc2MTktZmQxNC00ODkzLWE1NmUtMDU5NDQzMjZjNmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNETuWkh+eUqC0zIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anAzLmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJjZG4teGpwNC5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA0LmNxanNsLnh5eiIsImlkIjoiODVjMjc2MTktZmQxNC00ODkzLWE1NmUtMDU5NDQzMjZjNmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNETuWkh+eUqC00Iiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA0LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJjZG4teGpwNS5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA1LmNxanNsLnh5eiIsImlkIjoiODVjMjc2MTktZmQxNC00ODkzLWE1NmUtMDU5NDQzMjZjNmY5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNETuWkh+eUqC01Iiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA1LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://85c27619-fd14-4893-a56e-05944326c6f9@cthk2.createmofa.xyz:35998?sni=hk2.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-2
+vmess://YXV0bzo4NWMyNzYxOS1mZDE0LTQ4OTMtYTU2ZS0wNTk0NDMyNmM2ZjlAY2RuLXhqcDMuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-3&obfsParam=cdn-xjp3.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
+vmess://YXV0bzo4NWMyNzYxOS1mZDE0LTQ4OTMtYTU2ZS0wNTk0NDMyNmM2ZjlAY2RuLXhqcDQuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-4&obfsParam=cdn-xjp4.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
+vmess://YXV0bzo4NWMyNzYxOS1mZDE0LTQ4OTMtYTU2ZS0wNTk0NDMyNmM2ZjlAY2RuLXhqcDUuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-5&obfsParam=cdn-xjp5.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
+vmess://YXV0bzo1MWNjMzg4Ny02Mzk4LTRmMWItYTI1OS02ZDUzYzc1MTY3MmRAY2RuLXhqcDMuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-3&obfsParam=cdn-xjp3.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
+vmess://YXV0bzo1MWNjMzg4Ny02Mzk4LTRmMWItYTI1OS02ZDUzYzc1MTY3MmRAY2RuLXhqcDQuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-4&obfsParam=cdn-xjp4.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
+vmess://YXV0bzo1MWNjMzg4Ny02Mzk4LTRmMWItYTI1OS02ZDUzYzc1MTY3MmRAY2RuLXhqcDUuY3Fqc2wueHl6OjQ0Mw?remarks=CDN%E5%A4%87%E7%94%A8-5&obfsParam=cdn-xjp5.cqjsl.xyz&path=/&obfs=websocket&tls=1&tfo=1&alterId=0
 8526967@qq.com 2.88T流量未用 给安卓用 最迟7.1日用完
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiNWY2YWI4MmMtZmM2Ni0zZjNlLTliN2YtMDM2ZmEzMGNkMTE4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQxIiwNCiAgImFkZCI6ICIxOC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIxOCIsDQogICJpZCI6ICI1ZjZhYjgyYy1mYzY2LTNmM2UtOWI3Zi0wMzZmYTMwY2QxMTgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
