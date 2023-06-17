@@ -35,10 +35,7 @@ trojan://37597af3-0d22-45c8-9c5a-418903f891e1@cthk4.createmofa.xyz:35996?sni=hk-
 trojan://37597af3-0d22-45c8-9c5a-418903f891e1@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
 trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@cthk4.createmofa.xyz:35996?sni=hk-4.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-4
 trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
-8526967@qq.com 2.88T流量未用 给安卓用 最迟7.1日用完
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiNWY2YWI4MmMtZmM2Ni0zZjNlLTliN2YtMDM2ZmEzMGNkMTE4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQyIiwNCiAgImFkZCI6ICIxOS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIxOSIsDQogICJpZCI6ICI1ZjZhYjgyYy1mYzY2LTNmM2UtOWI3Zi0wMzZmYTMwY2QxMTgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQiLA0KICAiYWRkIjogIjIwLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjIwIiwNCiAgImlkIjogIjVmNmFiODJjLWZjNjYtM2YzZS05YjdmLTAzNmZhMzBjZDExOCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+
 测试2个号  10,7,4vov
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%952
