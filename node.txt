@@ -21,20 +21,20 @@ trojan://90f28b9f-5649-4905-b399-efc1ad4474b9@usa.stablize.top:443?tfo=1#USA%E7%
 trojan://19aa9d7b-3fbb-4381-b0c6-824942993c25@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC001
 trojan://19aa9d7b-3fbb-4381-b0c6-824942993c25@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
 安卓found 12 11 10 13
-trojan://7fb75604-9656-4c30-8662-6533c580e794@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A112
+trojan://7fb75604-9656-4c30-8662-6533c580e794@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE12
 trojan://9320b704-6e6b-405e-917c-ad4db720cb42@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%97%A5%E6%9C%AC%2011
-trojan://3228a77c-c1c3-451f-9112-e6e766684558@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%2010
-trojan://da68c738-99a6-4d8e-92e4-68254e6ee2b7@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD%2013
+trojan://3228a77c-c1c3-451f-9112-e6e766684558@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE10
+trojan://da68c738-99a6-4d8e-92e4-68254e6ee2b7@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E8%8B%B1%E5%9B%BD13
 新增一个2元 线路名字的7 
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A001
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@uk.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD001
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
 23和24号创奇 
-trojan://37597af3-0d22-45c8-9c5a-418903f891e1@cthk4.createmofa.xyz:35996?allowInsecure=1&peer=hk-4.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-4
-trojan://37597af3-0d22-45c8-9c5a-418903f891e1@ctsg-3.createmofa.xyz:37997?allowInsecure=1&peer=sg-3.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-3
-trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@cthk4.createmofa.xyz:35996?allowInsecure=1&peer=hk-4.ctjsq.xyz&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-4
-trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@ctsg-3.createmofa.xyz:37997?allowInsecure=1&peer=sg-3.ctjsq.xyz&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1-3
+trojan://37597af3-0d22-45c8-9c5a-418903f891e1@cthk4.createmofa.xyz:35996?sni=hk-4.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-4
+trojan://37597af3-0d22-45c8-9c5a-418903f891e1@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
+trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@cthk4.createmofa.xyz:35996?sni=hk-4.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-4
+trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
 8526967@qq.com 2.88T流量未用 给安卓用 最迟7.1日用完
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiNWY2YWI4MmMtZmM2Ni0zZjNlLTliN2YtMDM2ZmEzMGNkMTE4IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQyIiwNCiAgImFkZCI6ICIxOS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIxOSIsDQogICJpZCI6ICI1ZjZhYjgyYy1mYzY2LTNmM2UtOWI3Zi0wMzZmYTMwY2QxMTgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
