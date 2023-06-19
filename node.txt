@@ -1,20 +1,20 @@
 安卓专用
 安卓abcd 7月6号到期的
-trojan://1c00f871-d73a-4620-bfad-26273cf68245@sg.stablize.top:443?tfo=1#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://1c00f871-d73a-4620-bfad-26273cf68245@usa.stablize.top:443?tfo=1#%E7%AD%895%E7%A7%92%E5%90%8E%E6%98%BE%E7%A4%BA%E6%88%90%E5%8A%9F%E5%86%8D%E8%BF%9E%E6%8E%A5
+trojan://957927f8-166b-40c5-8ef6-09ef31b0b0b4@sg.stablize.top:443?tfo=1#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://957927f8-166b-40c5-8ef6-09ef31b0b0b4@usa.stablize.top:443?tfo=1#%E7%AD%895%E7%A7%92%E5%90%8E%E6%98%BE%E7%A4%BA%E6%88%90%E5%8A%9F%E5%86%8D%E8%BF%9E%E6%8E%A5
 trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@de.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
 trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@jp.stablize.top:443?tfo=1#%E5%8F%B3%E4%B8%8A%E8%A7%92%E7%82%B9%E6%B5%8B%E8%AF%95%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ca.stablize.top:443?tfo=1#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://2b2d6a27-6e72-4090-bb53-26f45558a0bc@uk.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
 trojan://2b2d6a27-6e72-4090-bb53-26f45558a0bc@usa.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
-安卓4 3个文字说明的 和安卓9的3个线路 vov的
-trojan://e3d29dbd-bacb-46ac-bb0c-1f7dd5cfdc50@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
-trojan://e3d29dbd-bacb-46ac-bb0c-1f7dd5cfdc50@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
-trojan://e3d29dbd-bacb-46ac-bb0c-1f7dd5cfdc50@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
-trojan://ab4752d5-c110-4964-b4d4-53c19b95ceb8@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%201
-trojan://ab4752d5-c110-4964-b4d4-53c19b95ceb8@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%201
-trojan://ab4752d5-c110-4964-b4d4-53c19b95ceb8@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%202
+安卓11 3个文字说明的 和安卓9的3个线路 vov的
+trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
+trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
+trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
+trojan://ab4752d5-c110-4964-b4d4-53c19b95ceb8@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%202
+trojan://ab4752d5-c110-4964-b4d4-53c19b95ceb8@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
+trojan://ab4752d5-c110-4964-b4d4-53c19b95ceb8@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE2
 安卓的  ,364677  ,746759 5和6 7.16到期的 2元
 trojan://90f28b9f-5649-4905-b399-efc1ad4474b9@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
 trojan://90f28b9f-5649-4905-b399-efc1ad4474b9@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
@@ -24,23 +24,24 @@ trojan://19aa9d7b-3fbb-4381-b0c6-824942993c25@ca.stablize.top:443?tfo=1#CA%E5%8A
 trojan://7fb75604-9656-4c30-8662-6533c580e794@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE12
 trojan://9320b704-6e6b-405e-917c-ad4db720cb42@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%97%A5%E6%9C%AC%2011
 trojan://3228a77c-c1c3-451f-9112-e6e766684558@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE10
-trojan://da68c738-99a6-4d8e-92e4-68254e6ee2b7@fscuk.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E8%8B%B1%E5%9B%BD13
+trojan://da68c738-99a6-4d8e-92e4-68254e6ee2b7@fscca.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8A%A0%E6%8B%BF%E5%A4%A7%2013
 新增一个2元 线路名字的7 
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A001
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@uk.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD001
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
 23和24号创奇 
-trojan://37597af3-0d22-45c8-9c5a-418903f891e1@cthk4.createmofa.xyz:35996?sni=hk-4.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-4
 trojan://37597af3-0d22-45c8-9c5a-418903f891e1@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
-trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@cthk4.createmofa.xyz:35996?sni=hk-4.ctjsq.xyz#%F0%9F%87%AD%F0%9F%87%B0+%E9%A6%99%E6%B8%AF-4
+vmess://eyJhZGQiOiJjZG4teGpwNC5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA0LmNxanNsLnh5eiIsImlkIjoiMzc1OTdhZjMtMGQyMi00NWM4LTljNWEtNDE4OTAzZjg5MWUxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuaWsOWKoOWdoS0yIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA0LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJjZG4teGpwNS5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA1LmNxanNsLnh5eiIsImlkIjoiMzc1OTdhZjMtMGQyMi00NWM4LTljNWEtNDE4OTAzZjg5MWUxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuaWsOWKoOWdoS0zIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA1LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
-
-测试2个号  10,7,4vov
+vmess://eyJhZGQiOiJjZG4teGpwNC5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA0LmNxanNsLnh5eiIsImlkIjoiYjIyMGMzYmYtM2Y0Ni00YTZkLWE2NDMtYzE4OTBiYThjZjkxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuaWsOWKoOWdoS0yIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA0LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJjZG4teGpwNS5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA1LmNxanNsLnh5eiIsImlkIjoiYjIyMGMzYmYtM2Y0Ni00YTZkLWE2NDMtYzE4OTBiYThjZjkxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuaWsOWKoOWdoS0zIiwic2N5IjoiYXV0byIsInNuaSI6ImNkbi14anA1LmNxanNsLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+测试2个号  10,2,4,8vov 
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%952
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%953
-trojan://6aeb67a8-b271-47c6-aefe-9f6a4d54eb06@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%954
-trojan://6aeb67a8-b271-47c6-aefe-9f6a4d54eb06@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%955
-trojan://0c5986b2-d454-47a5-8391-f84c2a7a6056@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%956
-trojan://0c5986b2-d454-47a5-8391-f84c2a7a6056@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%957
+trojan://ad52c663-bab7-42b0-9ec1-a7c8e30a95b4@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%E6%B5%8B%E8%AF%954
+trojan://0c5986b2-d454-47a5-8391-f84c2a7a6056@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B5%8B%E8%AF%955
+trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%956
+trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%957
