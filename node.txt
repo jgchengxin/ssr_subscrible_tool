@@ -43,5 +43,5 @@ trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovotw.ovogreat.com:443?allowInsecu
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%951
 trojan://ad52c663-bab7-42b0-9ec1-a7c8e30a95b4@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%954
 trojan://0c5986b2-d454-47a5-8391-f84c2a7a6056@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%955
-trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%956
+trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%E6%B5%8B%E8%AF%956
 trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%957
