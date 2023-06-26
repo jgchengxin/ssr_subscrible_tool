@@ -23,7 +23,7 @@ trojan://19aa9d7b-3fbb-4381-b0c6-824942993c25@ca.stablize.top:443?tfo=1#CA%E5%8A
 安卓found 12 11 10 13
 trojan://7fb75604-9656-4c30-8662-6533c580e794@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE12
 trojan://9320b704-6e6b-405e-917c-ad4db720cb42@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%2011
-trojan://3228a77c-c1c3-451f-9112-e6e766684558@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE10
+trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%2010
 trojan://da68c738-99a6-4d8e-92e4-68254e6ee2b7@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%2013
 新增一个2元 线路名字的7 
 trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
@@ -41,7 +41,7 @@ vmess://eyJhZGQiOiJjZG4teGpwNS5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA1
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B5%8B%E8%AF%952
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%951
-trojan://ad52c663-bab7-42b0-9ec1-a7c8e30a95b4@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%954
+trojan://ad52c663-bab7-42b0-9ec1-a7c8e30a95b4@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%954
 trojan://0c5986b2-d454-47a5-8391-f84c2a7a6056@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%955
 trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%E6%B5%8B%E8%AF%956
 trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%957
