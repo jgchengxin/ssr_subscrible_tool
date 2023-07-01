@@ -6,8 +6,8 @@ trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@de.stablize.top:443?tfo=1#%E6%96%A
 trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@jp.stablize.top:443?tfo=1#%E5%8F%B3%E4%B8%8A%E8%A7%92%E7%82%B9%E6%B5%8B%E8%AF%95%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ca.stablize.top:443?tfo=1#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://1499c9d6-a4bf-42f8-a6d7-0ba333cbe17b@sg.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
-trojan://1499c9d6-a4bf-42f8-a6d7-0ba333cbe17b@usa.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
+trojan://ad0e6960-50a6-46d7-a7f4-dbfa129f859e@sg.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
+trojan://ad0e6960-50a6-46d7-a7f4-dbfa129f859e@usa.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
 安卓11 3个文字说明的 和安卓9的3个线路 vov的
 trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
 trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
@@ -20,16 +20,7 @@ trojan://90f28b9f-5649-4905-b399-efc1ad4474b9@sg.stablize.top:443?tfo=1#SG%E6%96
 trojan://90f28b9f-5649-4905-b399-efc1ad4474b9@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
 trojan://19aa9d7b-3fbb-4381-b0c6-824942993c25@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC001
 trojan://19aa9d7b-3fbb-4381-b0c6-824942993c25@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
-7.1，clash2元2个账号多出来的流量给安卓用
-trojan://76787d4d-c9c3-4ca6-8945-ed7eb8af9655@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
-trojan://76787d4d-c9c3-4ca6-8945-ed7eb8af9655@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
-trojan://76787d4d-c9c3-4ca6-8945-ed7eb8af9655@de.stablize.top:443?tfo=1#DE%E5%BE%B7%E5%9B%BD001
-trojan://c42009ec-96a9-4545-b821-2664b90ffa9d@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
-trojan://c42009ec-96a9-4545-b821-2664b90ffa9d@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7002
-trojan://c42009ec-96a9-4545-b821-2664b90ffa9d@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A002
-7.1，clashfound1个账号多出来的流量给安卓用
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E9%A6%99%E6%B8%AF%201
-trojan://ffc63b16-6147-470b-ba9f-7a55188da1bc@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD%201
+
 安卓found 12 11 10 13
 trojan://7fb75604-9656-4c30-8662-6533c580e794@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE12
 trojan://9320b704-6e6b-405e-917c-ad4db720cb42@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%2011
