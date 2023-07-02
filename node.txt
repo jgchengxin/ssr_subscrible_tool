@@ -5,7 +5,7 @@ trojan://957927f8-166b-40c5-8ef6-09ef31b0b0b4@usa.stablize.top:443?tfo=1#%E7%AD%
 trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@de.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
 trojan://1e8db890-68da-4dff-8a16-ded8fabcb3c3@jp.stablize.top:443?tfo=1#%E5%8F%B3%E4%B8%8A%E8%A7%92%E7%82%B9%E6%B5%8B%E8%AF%95%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5
 trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ca.stablize.top:443?tfo=1#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@jp.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@sg.stablize.top:443?tfo=1#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://ad0e6960-50a6-46d7-a7f4-dbfa129f859e@sg.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
 trojan://ad0e6960-50a6-46d7-a7f4-dbfa129f859e@usa.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
 安卓11 3个文字说明的 和安卓9的3个线路 vov的
@@ -41,7 +41,7 @@ vmess://eyJhZGQiOiJjZG4teGpwNS5jcWpzbC54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImNkbi14anA1
 测试2个号  10,2,4,8vov 
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B5%8B%E8%AF%952
 trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
-trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20%E6%B5%8B%E8%AF%951
+trojan://0482695e-7f57-4de8-be81-0d835bea850c@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
 trojan://ad52c663-bab7-42b0-9ec1-a7c8e30a95b4@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%954
 trojan://0c5986b2-d454-47a5-8391-f84c2a7a6056@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%955
 trojan://1ce040fc-73f7-4f28-9d50-cbd502e7d768@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%E6%B5%8B%E8%AF%956
