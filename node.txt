@@ -31,10 +31,10 @@ trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fscsg.fscloud123456789.com:443?all
 trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD%2014
 trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%2014
 新增一个2元 线路名字的7 
-trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7001
-trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A001
-trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@uk.stablize.top:443?tfo=1#UK%E8%8B%B1%E5%9B%BD001
-trojan://b9dbc215-28fe-4227-a47e-1e5718c92af8@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
+trojan://605057b0-d8d1-4d71-a7de-0371b8240711@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC001
+trojan://605057b0-d8d1-4d71-a7de-0371b8240711@ca.stablize.top:443?tfo=1#CA%E5%8A%A0%E6%8B%BF%E5%A4%A7002
+trojan://605057b0-d8d1-4d71-a7de-0371b8240711@ap.stablize.top:443?tfo=1#AU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A003
+trojan://605057b0-d8d1-4d71-a7de-0371b8240711@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1004
 23和24号创奇 
 trojan://37597af3-0d22-45c8-9c5a-418903f891e1@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
 trojan://b220c3bf-3f46-4a6d-a643-c1890ba8cf91@ctsg-3.createmofa.xyz:37997?sni=sg-3.ctjsq.xyz#%F0%9F%87%B8%F0%9F%87%AC+%E6%96%B0%E5%8A%A0%E5%9D%A1-3
