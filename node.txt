@@ -33,19 +33,18 @@ trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@usa.stablize.top:443?tfo=1#USA%E7%
 trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
 trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1003
 测试2个号  11,12vov   13     7.17到期
-trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%E6%B5%8B%E8%AF%954
+trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%954
 trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%955
 trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%956
+trojan://c63fc9af-26ea-4a35-8b51-097ec12c3b87@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20%E6%B5%8B%E8%AF%957
 trojan://53f0e115-f11f-4bda-a661-3f0e187055db@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%951
 trojan://53f0e115-f11f-4bda-a661-3f0e187055db@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%952
 trojan://53f0e115-f11f-4bda-a661-3f0e187055db@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%953
-trojan://e3d29dbd-bacb-46ac-bb0c-1f7dd5cfdc50@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%957
-trojan://e3d29dbd-bacb-46ac-bb0c-1f7dd5cfdc50@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20%E6%B5%8B%E8%AF%958
-trojan://e3d29dbd-bacb-46ac-bb0c-1f7dd5cfdc50@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%959
+
 一元
-trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@hk4.yihaobao.xyz:10026?sni=tls.yihaobao.xyz#%E9%A6%99%E6%B8%AF-4
-trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@hk5.yihaobao.xyz:10024?sni=tls.yihaobao.xyz#%E9%A6%99%E6%B8%AF-5
-trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@jp2.yihaobao.xyz:10038?sni=tls.yihaobao.xyz#%E6%97%A5%E6%9C%AC-2
-trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@jp5.yihaobao.xyz:10053?sni=tls.yihaobao.xyz#%E6%97%A5%E6%9C%AC-5
+trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@hk5.yihaobao.xyz:10025?sni=tls.yihaobao.xyz#%E9%A6%99%E6%B8%AF-5
+trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@hk6.yihaobao.xyz:10049?sni=tls.yihaobao.xyz#%E9%A6%99%E6%B8%AF-6
+trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@jp1.yihaobao.xyz:10055?sni=tls.yihaobao.xyz#%E6%97%A5%E6%9C%AC-1
+trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@jp2.yihaobao.xyz:10039?sni=tls.yihaobao.xyz#%E6%97%A5%E6%9C%AC-2
 trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@kr3.yihaobao.xyz:10051?sni=tls.yihaobao.xyz#%E9%9F%A9%E5%9B%BD-3
-trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@tw2.yihaobao.xyz:10021?sni=tls.yihaobao.xyz#%E5%8F%B0%E6%B9%BE-2
+trojan://7ca44c63-2cad-41cc-a29d-d35b07a9c2b0@tw1.yihaobao.xyz:10021?sni=tls.yihaobao.xyz#%E5%8F%B0%E6%B9%BE-1
