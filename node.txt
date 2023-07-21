@@ -9,12 +9,7 @@ trojan://15983199-cafe-4c51-9d18-a92bfaf354c9@jp.stablize.top:443?tfo=1#%E4%BB%B
 trojan://18eaf229-61d7-43ea-8140-a3e2bb1d4e6f@sg.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
 trojan://18eaf229-61d7-43ea-8140-a3e2bb1d4e6f@usa.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
 安卓14 3个文字说明的,7.19 和安卓15的3个线路 vov的7.15
-trojan://c30b955d-2305-4b90-8fa1-7535dc99fed3@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
-trojan://c30b955d-2305-4b90-8fa1-7535dc99fed3@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
-trojan://c30b955d-2305-4b90-8fa1-7535dc99fed3@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%BD%AC%E5%8F%91/%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
-trojan://044fac84-6fae-43b7-803b-d4b85bec0109@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%201
-trojan://044fac84-6fae-43b7-803b-d4b85bec0109@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%201
-trojan://044fac84-6fae-43b7-803b-d4b85bec0109@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20l
+
 安卓的  1和2    8.15到期的 2元
 trojan://d489987a-7eb4-4380-a71f-a92d9f097447@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
 trojan://d489987a-7eb4-4380-a71f-a92d9f097447@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
