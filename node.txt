@@ -21,10 +21,7 @@ trojan://d489987a-7eb4-4380-a71f-a92d9f097447@sg.stablize.top:443?tfo=1#SG%E6%96
 trojan://d489987a-7eb4-4380-a71f-a92d9f097447@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD001
 trojan://d10d2080-b049-451e-ac66-5df52e2282e8@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
 trojan://d10d2080-b049-451e-ac66-5df52e2282e8@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1002
-安卓found  14,15
-trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%96%B0%E5%8A%A0%E5%9D%A1%2014
-trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E7%BE%8E%E5%9B%BD%2014
-trojan://bb3503b4-f1aa-499f-bc59-b2684a3a6990@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%2014
+安卓found  15
 trojan://68bc6080-f0e8-48b0-8d39-b4e0b80cc982@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E9%A6%99%E6%B8%AF15
 trojan://68bc6080-f0e8-48b0-8d39-b4e0b80cc982@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E6%97%A5%E6%9C%AC%2015
 trojan://68bc6080-f0e8-48b0-8d39-b4e0b80cc982@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#chatgpt%E5%8F%B0%E6%B9%BE%2015
