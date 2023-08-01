@@ -30,13 +30,15 @@ trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@sg.stablize.top:443?tfo=1#SG%E6%96
 trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@usa.stablize.top:443?tfo=1#USA%E7%BE%8E%E5%9B%BD003
 trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@jp.stablize.top:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
 trojan://98d72270-c676-40d6-ab0b-364a4c6bef71@sg.stablize.top:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1003
-测试2个号  12vov   16  7.17到期
-trojan://53f0e115-f11f-4bda-a661-3f0e187055db@ovojp.ovonice.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20%E6%B5%8B%E8%AF%951
-trojan://53f0e115-f11f-4bda-a661-3f0e187055db@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%952
-trojan://53f0e115-f11f-4bda-a661-3f0e187055db@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%953
+测试2个号     16VOV  8.18到期
+secure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%953
 trojan://42f6d143-729a-4e27-8fbd-d8bbcc96a3bc@ovosg.ovonice.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%B5%8B%E8%AF%954
 trojan://42f6d143-729a-4e27-8fbd-d8bbcc96a3bc@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20%E6%B5%8B%E8%AF%955
 trojan://42f6d143-729a-4e27-8fbd-d8bbcc96a3bc@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20%E6%B5%8B%E8%AF%956
+5元   7772889@qq.com
+vmess://YXV0bzpkMmZlNTIxMy03NDM2LTQ3ZjYtYmE5My1mY2RkZTllM2FkY2VAaGJjbS5yMXUuY246MzM1OTM?remarks=%E9%A6%99%E6%B8%AF&tfo=1&alterId=0
+vmess://YXV0bzpkMmZlNTIxMy03NDM2LTQ3ZjYtYmE5My1mY2RkZTllM2FkY2VAZGRzYi5jbG91ZGZmLnRvcDoyMDU0Mg?remarks=%E5%8F%B0%E6%B9%BE&tfo=1&alterId=0
+vmess://YXV0bzpkMmZlNTIxMy03NDM2LTQ3ZjYtYmE5My1mY2RkZTllM2FkY2VAZ3p6ei5nYW9zdWdvLnRvcDoyNjQ2MA?remarks=%E6%97%A5%E6%9C%AC&obfsParam=jp.cloudff.top&path=/&obfs=websocket&tfo=1&alterId=0
 安卓百安卓655526734@qq.com,625536627@qq.com
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vueZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwOTgiLA0KICAiaWQiOiAiODE4MDI5NDAtODlmZS0zODdkLTgxNTgtZDA0NmRhODdhODFiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYml0ZWItdHcwMS53ZWNoYXQtY2RuLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4r+eZviIsDQogICJhZGQiOiAiaW4wNi5teTExODgub3JnIiwNCiAgInBvcnQiOiAiNjQwOTkiLA0KICAiaWQiOiAiODE4MDI5NDAtODlmZS0zODdkLTgxNTgtZDA0NmRhODdhODFiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYml0ZWItaGstYS53ZWliby1jZG4uYmVzdCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
