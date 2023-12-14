@@ -14,14 +14,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIua4hemZpOiBiuWkqeiusOW9leS/nemanOS/oeaB
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4peagvOmBteWuiOW9k+WcsOazleW+i+azleinhCIsDQogICJhZGQiOiAiaW4wNi5teXFxMjAyNC5vcmciLA0KICAicG9ydCI6ICI2NDAxNCIsDQogICJpZCI6ICJhMzJjODBlNi0wOWY0LTNkODgtYjc5OS00ZDhkNzJlMzJiOWIiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czAxLndlY2hhdC1jZG4tdXMwMS5vbmUiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4peemgeWPkeihqC/ovazlj5Ev6K+E6K665LiN5b2T5YaF5a65IiwNCiAgImFkZCI6ICJpbjA2Lm15cXEyMDI0Lm9yZyIsDQogICJwb3J0IjogIjY0MDk2IiwNCiAgImlkIjogImEzMmM4MGU2LTA5ZjQtM2Q4OC1iNzk5LTRkOGQ3MmUzMmI5YiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhrYmdwMDEtYml0ZWIudGVuY2VudC5iZXN0IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIg0KfQ==
 
-2元1-3      535668，     6467734，,7467674     12.14  到期1-3公用苹果1-3的账号 8377432   12.7     给安卓用2元3个账号
-trojan://10665fc6-9b37-4144-9d5a-72bb0646cb32@sg.liangyuandiancloud.com:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
-trojan://10665fc6-9b37-4144-9d5a-72bb0646cb32@sg.liangyuandiancloud.com:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
-trojan://53ba0fbd-a79a-40fe-9650-6d113297773c@usa.liangyuandiancloud.com:443?tfo=1#USA%E7%BE%8E%E5%9B%BD002
-trojan://53ba0fbd-a79a-40fe-9650-6d113297773c@usa.liangyuandiancloud.com:443?tfo=1#USA%E7%BE%8E%E5%9B%BD002
-trojan://27c6e4b7-6aa7-4213-983c-63e995d6770e@jp.liangyuandiancloud.com:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
-trojan://27c6e4b7-6aa7-4213-983c-63e995d6770e@jp.liangyuandiancloud.com:443?tfo=1#JP%E6%97%A5%E6%9C%AC003
-
+2元1-3    安卓2元   123,  636654，926844,425532 
+trojan://ce197fa6-5962-4eb8-bd10-9aec9d88565d@sg.liangyuandiancloud.com:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
+trojan://ce197fa6-5962-4eb8-bd10-9aec9d88565d@sg.liangyuandiancloud.com:443?tfo=1#SG%E6%96%B0%E5%8A%A0%E5%9D%A1001
+trojan://14fb29e2-7771-4fee-971f-dc42665401c3@jp.liangyuandiancloud.com:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://14fb29e2-7771-4fee-971f-dc42665401c3@jp.liangyuandiancloud.com:443?tfo=1#JP%E6%97%A5%E6%9C%AC002
+trojan://09f62192-3bd0-420c-8400-b78050257d98@usa.liangyuandiancloud.com:443?tfo=1#USA%E7%BE%8E%E5%9B%BD003
+trojan://09f62192-3bd0-420c-8400-b78050257d98@usa.liangyuandiancloud.com:443?tfo=1#USA%E7%BE%8E%E5%9B%BD003
 
 百特百132334，774372安卓百
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbveeZviIsDQogICJhZGQiOiAiaW4wNi5teXFxMjAyNC5vcmciLA0KICAicG9ydCI6ICI2NDAxNCIsDQogICJpZCI6ICJkZjgxMjViMS04MmNhLTM3ZmYtYTUwMS00NjhmZTA0ODZiOTMiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czAxLndlY2hhdC1jZG4tdXMwMS5vbmUiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiDQp9
