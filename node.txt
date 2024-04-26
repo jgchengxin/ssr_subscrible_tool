@@ -1,19 +1,19 @@
 安卓专用
 安卓专用 
-  安卓文字说明西瓜  5.2
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53001?sni=vn001.yijiasu.xyz#%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E4%BF%9D%E7%95%99%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E6%B8%85%E7%A9%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#%E7%AD%895%E7%A7%92%E5%90%8E%E6%98%BE%E7%A4%BA%E6%88%90%E5%8A%9F%E5%86%8D%E8%BF%9E%E6%8E%A5
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E5%8F%B3%E4%B8%8A%E8%A7%92%E7%82%B9%E6%B5%8B%E8%AF%95%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:43002?sni=hk002.yijiasu.xyz#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:43003?sni=hk003.yijiasu.xyz#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:45001?sni=kr001.yijiasu.xyz#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp%3A%2F%2F985.so%2Fbmgac
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:45002?sni=kr002.yijiasu.xyz#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:45004?sni=kr004.yijiasu.xyz#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8%2F%E8%BD%AC%E5%8F%91%2F%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
+  安卓文字说明西瓜  5.15
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:53004?sni=vn004.yijiasu.xyz#%E4%BF%9D%E7%95%99%E5%BF%85%E8%A6%81%E4%BF%A1%E6%81%AF%E6%B8%85%E7%A9%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:42006?sni=sg006.yijiasu.xyz#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E7%AD%895%E7%A7%92%E5%90%8E%E6%98%BE%E7%A4%BA%E6%88%90%E5%8A%9F%E5%86%8D%E8%BF%9E%E6%8E%A5
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:43004?sni=hk004.yijiasu.xyz#%E5%8F%B3%E4%B8%8A%E8%A7%92%E7%82%B9%E6%B5%8B%E8%AF%95%E9%85%8D%E7%BD%AE%E7%9C%9F%E8%BF%9E%E6%8E%A5
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:62001?sni=mas001.yijiasu.xyz#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E4%BB%BB%E6%84%8F-1ms%E4%BB%A5%E5%A4%96%E7%9A%84
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#%E4%BB%BB%E6%84%8F%E6%9C%89%E6%95%88%E7%BA%BF%E8%B7%AF%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46004?sni=us004.yijiasu.xyz#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp%3A%2F%2F985.so%2Fbmgac
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:47001?sni=uk001.yijiasu.xyz#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:49002?sni=in002.yijiasu.xyz#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:59001?sni=tw001.yijiasu.xyz#%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:54001?sni=rus001.yijiasu.xyz#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8%2F%E8%BD%AC%E5%8F%91%2F%E8%AF%84%E8%AE%BA%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
 
 飞毯，临时456663，clash和临时用     5.1
 vmess://eyJhZGQiOiJ0YW56LWhrLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTMyODhiMDgtYjJjOS0zNjgzLWFlOTYtMWRiYzRmOGRjNzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAwOSIsInBzIjoiVjIgfCDpppnmuK8gMDEgfCDop6PplIEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -27,13 +27,11 @@ vmess://eyJhZGQiOiJ0YW56LWJvYXJkLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9z
 vmess://eyJhZGQiOiJ0YW56LWJvYXJkLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTMyODhiMDgtYjJjOS0zNjgzLWFlOTYtMWRiYzRmOGRjNzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAxNyIsInBzIjoiVjMgfCDlvrflm70gMDEgfCDlgI3njocyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ0YW56LWJvYXJkLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTMyODhiMDgtYjJjOS0zNjgzLWFlOTYtMWRiYzRmOGRjNzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTA5NiIsInBzIjoiVjMgfCDms5Xlm70gMDEgfCDlgI3njocyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ0YW56LWJvYXJkLjAxYnl4MzFxem4uZG93bmxvYWQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTMyODhiMDgtYjJjOS0zNjgzLWFlOTYtMWRiYzRmOGRjNzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAyMyIsInBzIjoiVjMgfCDoi7Hlm70gMDEgfCDlgI3njocyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-淘宝西瓜 5.2
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:53002?sni=vn002.yijiasu.xyz#%E8%B6%8A%E5%8D%97chatgpt1
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:42004?sni=sg004.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt1
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#%E6%97%A5%E6%9C%ACchatgpt2
-trojan://b7c0a9b4-0b85-4e93-921e-63bef702172b@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
+淘宝西瓜 5.15
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1chatgpt2
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt1
+trojan://cbbccb66-abd3-4562-880c-cf63a805dcfb@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#%E7%BE%8E%E5%9B%BDchatgpt2
 自由猫
 ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFsaWJhYmExLnhuLS16N3gxNmJmNnQuY29tOjMxMTQy#%F0%9F%87%AD%F0%9F%87%B0LS%E9%A6%99%E6%B8%AF1-1%20%7C%20%E6%B5%81%E8%A7%A3%20%7C%20%E5%8E%9F%E7%94%9F
 ss://YWVzLTEyOC1nY206YjczYjhkZDYtMGZhYi00MzQzLTgyNGYtYmRkODFjNzM5NTg1QGFodWF3ZWlzYjIueG4tLXo3eDE2YmY2dC5jb206MzExNDI#%F0%9F%87%AD%F0%9F%87%B0LS%E9%A6%99%E6%B8%AF1-2%20%7C%20%E6%B5%81%E8%A7%A3%20%7C%20%E5%8E%9F%E7%94%9F
