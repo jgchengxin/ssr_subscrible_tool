@@ -11,6 +11,22 @@ vmess://YXV0bzpmNWIxYjJhNC01MDFmLTM3ZWYtOTE1ZC0wYTViYWRiYzQyYTBAdGFuei1ib2FyZC4w
 vmess://YXV0bzpmNWIxYjJhNC01MDFmLTM3ZWYtOTE1ZC0wYTViYWRiYzQyYTBAdGFuei1ib2FyZC4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDIz?remarks=V3%20%7C%20%E8%8B%B1%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=0
 vmess://YXV0bzpmNWIxYjJhNC01MDFmLTM3ZWYtOTE1ZC0wYTViYWRiYzQyYTBAdGFuei1ib2FyZC4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDc3?remarks=V3%20%7C%20%E8%B6%8A%E5%8D%97%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=0
 vmess://YXV0bzpmNWIxYjJhNC01MDFmLTM3ZWYtOTE1ZC0wYTViYWRiYzQyYTBAdGFuei1ib2FyZC4wMWJ5eDMxcXpuLmRvd25sb2FkOjM1MDky?remarks=V3%20%7C%20%E6%8C%AA%E5%A8%81%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=0
+西瓜7.8安卓和苹果用
+trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02chatgpt2
+trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD02chatgpt1
+trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03chatgpt2
+
+西瓜7.3安卓用
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101chatgpt1
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102chatgpt2
+trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01chatgpt1
+闪电猫 淘宝
+vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAx?remarks=A%E9%A6%99%E6%B8%AF1&obfs=none&alterId=0
+vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAy?remarks=B%E5%8F%B0%E6%B9%BE1&obfs=none&alterId=0
+vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAz?remarks=C%E6%96%B0%E5%8A%A0%E5%9D%A11&obfs=none&alterId=0
+vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMTAz?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A12&obfs=none&alterId=0
+vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMTA0?remarks=%E6%97%A5%E6%9C%AC2&obfs=none&alterId=0
+vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMTAy?remarks=%E5%8F%B0%E6%B9%BE2&obfs=none&alterId=0
 
 安卓文字说明  三分  yuyu78996@proton.me    7.1
 vmess://eyJhZGQiOiJjZmNkbjEuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InVzMWNQWml6OG5iLmZ6YnFmcnNlLnh5eiIsImlkIjoiNTBjZmU4ZmMtNmQxMy00ZGEwLWJkMGEtMGJiZWUzYzkxOGNmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvLzZWQmhBa0N0VjQvIiwicG9ydCI6IjIwNTIiLCJwcyI6IuS4uuS/nemanOWuouaIt+S/oeaBr+WuieWFqCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -28,9 +44,6 @@ vmess://eyJhZGQiOiJjZmNkbjMuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImFnemJq
 vmess://eyJhZGQiOiJjZmNkbjMuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Ind0eXd3Y3J6anA1LnlvZm5oa2ZjLnh5eiIsImlkIjoiNTBjZmU4ZmMtNmQxMy00ZGEwLWJkMGEtMGJiZWUzYzkxOGNmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvLzlUZlZFeWt1IiwicG9ydCI6IjIwNTIiLCJwcyI6IuS4peemgeWPkeihqC/ovazlj5Ev6K+E6K665LiN5b2T5YaF5a65Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 安卓爬墙  yvwzo946@163.com   7.1
-vmess://YXV0bzo3YWVmNjI3Mi1hZDFiLTRmMzAtYmEzMy01ZTU5Yzk0YzBmZDRAaGt2MDEuYmlncGluZ3MuY29tOjIzOTcy?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFV01-M&obfs=none&tfo=1&alterId=0
-vmess://YXV0bzo3YWVmNjI3Mi1hZDFiLTRmMzAtYmEzMy01ZTU5Yzk0YzBmZDRAaGt2MDIuYmlncGluZ3MuY29tOjEyMjE2?remarks=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFV02-M&obfs=none&tfo=1&alterId=0
-vmess://YXV0bzo3YWVmNjI3Mi1hZDFiLTRmMzAtYmEzMy01ZTU5Yzk0YzBmZDRAanB2MDIuYmlncGluZ3MuY29tOjQwMjEx?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACV02-M&obfs=none&tfo=1&alterId=0
 vmess://YXV0bzo3YWVmNjI3Mi1hZDFiLTRmMzAtYmEzMy01ZTU5Yzk0YzBmZDRAanB2MDMuYmlncGluZ3MuY29tOjQwMjEy?remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACV03-M&obfs=none&tfo=1&alterId=0
 vmess://YXV0bzo3YWVmNjI3Mi1hZDFiLTRmMzAtYmEzMy01ZTU5Yzk0YzBmZDRAc2d2MDEuYmlncGluZ3MuY29tOjEyMDg0?remarks=%F0%9F%87%B8%F0%9F%87%AC%E7%8B%AE%E5%9F%8EV01-M&obfs=none&tfo=1&alterId=0
 vmess://YXV0bzo3YWVmNjI3Mi1hZDFiLTRmMzAtYmEzMy01ZTU5Yzk0YzBmZDRAa3J2MDEuYmlncGluZ3MuY29tOjEwMjE3?remarks=%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDV01-M&obfs=none&tfo=1&alterId=0
