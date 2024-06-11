@@ -10,22 +10,24 @@ trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42002?sni=sg002.
 trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01chatgpt1
 
 654337   苹果手机文字说明用和安卓
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotaGsuMDFieXgzMXF6bi5kb3dubG9hZDozNTAwOQ?remarks=V2%20%7C%20%E9%A6%99%E6%B8%AF%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotdXMuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxOQ?remarks=V2%20%7C%20%E7%BE%8E%E5%9B%BD%2001%20%7C%20%E5%8E%9F%E7%94%9F&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotdHcuMDFieXgzMXF6bi5kb3dubG9hZDozNTA2Nw?remarks=V2%20%7C%20%E5%8F%B0%E6%B9%BE%2001%20%7C%20%E5%8E%9F%E7%94%9F&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotc2cuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxMw?remarks=V2%20%7C%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTEyOQ?remarks=V3%20%7C%20%E5%B7%B4%E8%A5%BF%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxNw?remarks=V3%20%7C%20%E5%BE%B7%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTAyMw?remarks=V3%20%7C%20%E8%8B%B1%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTEwOQ?remarks=V3%20%7C%20%E6%B3%B0%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5Ng?remarks=V3%20%7C%20%E6%B3%95%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5MQ?remarks=V3%20%7C%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5NA?remarks=V3%20%7C%20%E6%84%8F%E5%A4%A7%E5%88%A9%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTEyMA?remarks=V3%20%7C%20%E8%A5%BF%E7%8F%AD%E7%89%99%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTExMQ?remarks=V3%20%7C%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA3Nw?remarks=V3%20%7C%20%E8%B6%8A%E5%8D%97%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NTU0MWEzMzQtZTk5YS0zYTk2LWI2MTktMTdjMTc1ZTkzM2IzQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5OQ?remarks=V3%20%7C%20%E8%8D%B7%E5%85%B0%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
-
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotaGsuMDFieXgzMXF6bi5kb3dubG9hZDozNTAwOQ?remarks=V2%20%7C%20%E9%A6%99%E6%B8%AF%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotdXMuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxOQ?remarks=V2%20%7C%20%E7%BE%8E%E5%9B%BD%2001%20%7C%20%E5%8E%9F%E7%94%9F&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotdHcuMDFieXgzMXF6bi5kb3dubG9hZDozNTA2Nw?remarks=V2%20%7C%20%E5%8F%B0%E6%B9%BE%2001%20%7C%20%E5%8E%9F%E7%94%9F&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotc2cuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxMw?remarks=V2%20%7C%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTEyOQ?remarks=V3%20%7C%20%E5%B7%B4%E8%A5%BF%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTEyNw?remarks=V3%20%7C%20%E5%8D%B0%E5%BA%A6%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5Ng?remarks=V3%20%7C%20%E6%B3%95%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTEwOQ?remarks=V3%20%7C%20%E6%B3%B0%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTAyMw?remarks=V3%20%7C%20%E8%8B%B1%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5OQ?remarks=V3%20%7C%20%E8%8D%B7%E5%85%B0%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5MQ?remarks=V3%20%7C%20%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTAyMQ?remarks=V3%20%7C%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5NA?remarks=V3%20%7C%20%E6%84%8F%E5%A4%A7%E5%88%A9%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTA5Mg?remarks=V3%20%7C%20%E6%8C%AA%E5%A8%81%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotYm9hcmQuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxNw?remarks=V3%20%7C%20%E5%BE%B7%E5%9B%BD%2001%20%7C%20%E5%80%8D%E7%8E%872&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotc2cuMDFieXgzMXF6bi5kb3dubG9hZDozNTAxNA?remarks=V2%20%7C%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotdHcuMDFieXgzMXF6bi5kb3dubG9hZDozNTA2OA?remarks=V2%20%7C%20%E5%8F%B0%E6%B9%BE%2002%20%7C%20%E5%8E%9F%E7%94%9F&obfs=none&alterId=(null)
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotdXMuMDFieXgzMXF6bi5kb3dubG9hZDozNTAyMA?remarks=V2%20%7C%20%E7%BE%8E%E5%9B%BD%2002%20%7C%20%E5%8E%9F%E7%94%9F&obfs=none&alterId=(null)
 闪电猫 淘宝
 vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAx?remarks=A%E9%A6%99%E6%B8%AF1&obfs=none&alterId=0
 vmess://YXV0bzo0MzMyZTlhMi1jZDliLTNiMDMtYjVjOC01ZTMzZjgwYmE3OTdAYmdwMS5iZ3AxLmFrdGNqc3EuY29tOjMxMDAy?remarks=B%E5%8F%B0%E6%B9%BE1&obfs=none&alterId=0
