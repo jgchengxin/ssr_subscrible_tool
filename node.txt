@@ -1,8 +1,6 @@
 安卓专用
 安卓专用 
-土豆  7.19
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@120.232.233.217:21146?allowInsecure=1&peer=k11.tudou211.com&tfo=1#V2-%E6%97%A5%E6%9C%AC01
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@120.232.233.217:21056?allowInsecure=1&peer=k14.tudou211.com&tfo=1#V2-%E9%9F%A9%E5%9B%BD01
+
 西瓜7.8安卓和苹果用
 trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02chatgpt2
 trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD02chatgpt1
@@ -11,11 +9,7 @@ trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:46003?sni=us003.
 trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101chatgpt1
 trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102chatgpt2
 trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01chatgpt1
-土豆  7.19
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@jscm03052.sstr2024.cc:21134?allowInsecure=1&peer=k19.tudou211.com&tfo=1#V1-%E7%BE%8E%E5%9B%BD02
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@jscm03052.sstr2024.cc:18147?allowInsecure=1&peer=k36.tudou211.com&tfo=1#V2-%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@120.232.233.217:21135?allowInsecure=1&peer=k1.tudou211.com&tfo=1#V1-%E9%A6%99%E6%B8%AF01
-trojan://7b00059b-9690-4205-b7a9-86bc1531b465@120.232.233.217:21004?allowInsecure=1&peer=k7.tudou211.com&tfo=1#V2-%E5%8F%B0%E6%B9%BE01
+
 
 654337   苹果手机文字说明用和安卓
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotaGsuMDFieXgzMXF6bi5kb3dubG9hZDozNTAwOQ?remarks=V2%20%7C%20%E9%A6%99%E6%B8%AF%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
