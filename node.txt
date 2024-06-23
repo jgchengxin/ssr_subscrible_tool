@@ -5,11 +5,6 @@
 trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:41002?sni=jp002.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC02chatgpt2
 trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:46002?sni=us002.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD02chatgpt1
 trojan://c7c7b6eb-d654-49b3-949d-3ea1e3b3151f@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03chatgpt2
-西瓜7.3安卓用
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101chatgpt1
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:42002?sni=sg002.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A102chatgpt2
-trojan://f50231a3-6ee0-4487-aee4-8d16ef214e6d@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01chatgpt1
-
 
 654337   苹果手机文字说明用和安卓
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6ZDBlZDZjNDgtMjdlZi0zMzNmLTgwNjUtM2Q3NGJmNDZhMDliQHRhbnotaGsuMDFieXgzMXF6bi5kb3dubG9hZDozNTAwOQ?remarks=V2%20%7C%20%E9%A6%99%E6%B8%AF%2001%20%7C%20%E8%A7%A3%E9%94%81&obfs=none&alterId=(null)
