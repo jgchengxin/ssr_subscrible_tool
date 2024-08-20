@@ -1,16 +1,4 @@
 安卓专用
-西瓜826月的
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42001?sni=sg001.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A101%7CNF%E4%B8%93%E7%94%A8
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42003?sni=sg003.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A103%7CNF%E4%B8%93%E7%94%A8
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:42006?sni=sg006.yijiasu.xyz#V1-%E6%96%B0%E5%8A%A0%E5%9D%A106%7CNF%E4%B8%93%E7%94%A8
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41001?sni=jp001.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC01%7CNF%E4%B8%93%E7%94%A8
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:41003?sni=jp003.yijiasu.xyz#V1-%E6%97%A5%E6%9C%AC03
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:43002?sni=hk002.yijiasu.xyz#V1-%E9%A6%99%E6%B8%AF02
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:45001?sni=kr001.yijiasu.xyz#V1-%E9%9F%A9%E5%9B%BD01
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46001?sni=us001.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD01%7Copenai%E4%B8%93%E7%94%A8
-trojan://b175cbca-4500-467b-8a7c-d9bf5f3c7d47@df.xiguajiasu.xyz:46003?sni=us003.yijiasu.xyz#V1-%E7%BE%8E%E5%9B%BD03%7Copenai%E4%B8%93%E7%94%A8
-trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.217.96:16233?sni=k73.tudou211.com#V2-%E6%97%A5%E6%9C%AC03%E2%88%A3K73%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
-trojan://71a9199c-4d52-40a8-bdbc-bf359ea66a2e@120.232.217.96:21014?sni=k44.tudou211.com#V1-%E6%97%A5%E6%9C%AC05%E2%88%A3K44%E7%BA%BF%E8%B7%AF%E2%88%A31.5X
 土豆64356@qq.com  8.31
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@shcm082.rennn.ren:21134?sni=k19.tudou211.com#%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://22f280cc-cc48-4954-bfce-1d9e2725bdd4@103.6.220.71:21019?sni=k21.tudou211.com#%E7%AD%895%E7%A7%92%E5%90%8E%E6%98%BE%E7%A4%BA%E6%88%90%E5%8A%9F%E5%86%8D%E8%BF%9E%E6%8E%A5
