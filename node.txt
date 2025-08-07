@@ -4,6 +4,23 @@ trojan://5f299a6a-33ca-4311-9319-b4cb5a483b37@tt.qingshanzf.net:52047?sni=k11.tu
 trojan://5f299a6a-33ca-4311-9319-b4cb5a483b37@tt.qingshanzf.net:21125?sni=k12.tudou211.com#%E5%8F%B3%E4%B8%8A%E8%A7%92%E4%BD%8D%E7%BD%AE%E8%BF%9B%E5%8E%BB%E7%82%B9+%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 trojan://5f299a6a-33ca-4311-9319-b4cb5a483b37@tt.qingshanzf.net:47479?sni=k74.tudou211.com#%E7%AD%89%E5%8F%B3%E4%B8%8B%E8%A7%92%E6%98%BE%E7%A4%BA%E2%80%9C%E6%88%90%E5%8A%9F%E2%80%9D%E5%90%8E%E5%86%8D%E8%BF%9E%E6%8E%A5
 trojan://5f299a6a-33ca-4311-9319-b4cb5a483b37@tt.qingshanzf.net:16233?sni=k73.tudou211.com#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1%E2%80%A6
+临时注册安卓用的10101010@qq.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrEdQTeS4tOaXtjEiLA0KICAiYWRkIjogIjUud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDUiLA0KICAiaWQiOiAiNWExMzUzNGEtNjdmMC0zYWM5LWJlNmYtMDI1YTJkNzMwODdiIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4r05UVOS4tOaXtjIiLA0KICAiYWRkIjogIjkud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDkiLA0KICAiaWQiOiAiNWExMzUzNGEtNjdmMC0zYWM5LWJlNmYtMDI1YTJkNzMwODdiIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbveWOn+eUn+S4tOaXtjMiLA0KICAiYWRkIjogIjE3LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjE3IiwNCiAgImlkIjogIjVhMTM1MzRhLTY3ZjAtM2FjOS1iZTZmLTAyNWEyZDczMDg3YiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vuWOn+eUn+S4tOaXtjQiLA0KICAiYWRkIjogIjIzLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjIzIiwNCiAgImlkIjogIjVhMTM1MzRhLTY3ZjAtM2FjOS1iZTZmLTAyNWEyZDczMDg3YiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+
+7月18日开通888911@qq.com泡跑
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro000.instconn.com:443?sni=hkip5.686911.xyz#DC+%E9%A6%99%E6%B8%AF+Trojan
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro003.instconn.com:443?sni=cherry.686911.xyz#DC+%E6%97%A5%E6%9C%AC+%E8%81%94%E9%80%9A
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro002.instconn.com:20253?sni=bing.3668989.xyz#DCJP002+%E4%B8%89%E7%BD%91%E9%80%9A
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro005.instconn.com:443?sni=Phoenixrm2.686911.xyz#DC+%E7%BE%8E%E5%9B%BD+%E4%B8%89%E7%BD%91%E9%80%9A
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#DC+%E7%BE%8E%E5%9B%BD+%E7%94%B5%E4%BF%A1
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro008.instconn.com:443?sni=sghostdzire.686911.xyz#DC+%E6%96%B0%E5%8A%A0%E5%9D%A1X+%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro009.instconn.com:443?sni=sgam2.686911.xyz#DC+%E6%96%B0%E5%8A%A0%E5%9D%A1+%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro010.instconn.com:443?sni=frankfurtrm2.686911.xyz#DC+%E5%BE%B7%E5%9B%BD++%E8%81%94%E9%80%9A
+trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro019.instconn.com:443?sni=tuntro019.instconn.com#DNVNM12+%E7%94%B5%E4%BF%A1
+
 
 最晚9.1日新开98734590@qq.com1111
 vmess://eyJob3N0IjoiYml0ZWItdHcwMS53ZWNoYXQtY2RuLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwidmVyaWZ5X2NlcnQiOnRydWUsImFkZCI6InB1Yi5hcC13aWZpNi54eXoiLCJwb3J0Ijo2NDAxOCwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJoZWFkZXJUeXBlIjoibm9uZSIsInYiOiIyIiwidHlwZSI6InZtZXNzIiwicHMiOiJWMS3lj7Dmub4wMSDpmqfpgZMgMS41eCIsInJlbWFyayI6IlYxLeWPsOa5vjAxIOmap+mBkyAxLjV4IiwiaWQiOiI4YTUzYzJkYy1lMDk2LTM1NjYtYTdiMy00ZWRkYWFiNzlkZTUiLCJjbGFzcyI6MX0=
@@ -24,19 +41,6 @@ vmess://eyJob3N0IjoiaGt0Mi1jZG4udGVuY2VudC5iZXN0IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJ2
 vmess://eyJob3N0Ijoic2cwNi1jZG4tdGFvd2EubXlub2RlczAwMS5vbmUiLCJwYXRoIjoiIiwidGxzIjoiIiwidmVyaWZ5X2NlcnQiOnRydWUsImFkZCI6InB1Yi5hcC13aWZpNi54eXoiLCJwb3J0Ijo2NDAwOCwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJoZWFkZXJUeXBlIjoibm9uZSIsInYiOiIyIiwidHlwZSI6InZtZXNzIiwicHMiOiJWMi3mlrDliqDlnaEwNiDlpZflqIMg5Lit57unIDEuNXgiLCJyZW1hcmsiOiJWMi3mlrDliqDlnaEwNiDlpZflqIMg5Lit57unIDEuNXgiLCJpZCI6IjNmNjQ2N2Y4LTI3MmMtMzFmYi05NDZiLWJhM2M5YzllNzMxMCIsImNsYXNzIjoyfQ==
 vmess://eyJob3N0IjoiaGstZmRjMS5uYnNkLnVzIiwicGF0aCI6IiIsInRscyI6IiIsInZlcmlmeV9jZXJ0Ijp0cnVlLCJhZGQiOiJwdWIuYXAtd2lmaTYueHl6IiwicG9ydCI6NjQwOTAsImFpZCI6MCwibmV0IjoidGNwIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJ2IjoiMiIsInR5cGUiOiJ2bWVzcyIsInBzIjoiVjIt6aaZ5rivRkRDMDEg6Zqn6YGTIDJ4IiwicmVtYXJrIjoiVjIt6aaZ5rivRkRDMDEg6Zqn6YGTIDJ4IiwiaWQiOiIzZjY0NjdmOC0yNzJjLTMxZmItOTQ2Yi1iYTNjOWM5ZTczMTAiLCJjbGFzcyI6Mn0=
 
-
-
-
-7月18日开通888911@qq.com泡跑
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro000.instconn.com:443?sni=hkip5.686911.xyz#DC+%E9%A6%99%E6%B8%AF+Trojan
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro003.instconn.com:443?sni=cherry.686911.xyz#DC+%E6%97%A5%E6%9C%AC+%E8%81%94%E9%80%9A
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro002.instconn.com:20253?sni=bing.3668989.xyz#DCJP002+%E4%B8%89%E7%BD%91%E9%80%9A
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro005.instconn.com:443?sni=Phoenixrm2.686911.xyz#DC+%E7%BE%8E%E5%9B%BD+%E4%B8%89%E7%BD%91%E9%80%9A
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#DC+%E7%BE%8E%E5%9B%BD+%E7%94%B5%E4%BF%A1
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro008.instconn.com:443?sni=sghostdzire.686911.xyz#DC+%E6%96%B0%E5%8A%A0%E5%9D%A1X+%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro009.instconn.com:443?sni=sgam2.686911.xyz#DC+%E6%96%B0%E5%8A%A0%E5%9D%A1+%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro010.instconn.com:443?sni=frankfurtrm2.686911.xyz#DC+%E5%BE%B7%E5%9B%BD++%E8%81%94%E9%80%9A
-trojan://dcb523af-7dd6-48f1-8b3e-ac5e2432a234@tuntro019.instconn.com:443?sni=tuntro019.instconn.com#DNVNM12+%E7%94%B5%E4%BF%A1
 
 275216514     110768717 291765224@qq.com  闪电安卓 最晚9.1日前 meige2ge   直接再网站复制代码
 vmess://eyJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInZlcmlmeV9jZXJ0Ijp0cnVlLCJhZGQiOiJuMS5ha3RjanNxLmNvbSIsInBvcnQiOjMxMDAzLCJhaWQiOjAsIm5ldCI6InRjcCIsImhlYWRlclR5cGUiOiJub25lIiwidiI6IjIiLCJ0eXBlIjoidm1lc3MiLCJwcyI6IkPmlrDliqDlnaExIiwicmVtYXJrIjoiQ+aWsOWKoOWdoTEiLCJpZCI6Ijk4OWViZTEyLTI3YWQtM2UzZC1hNGFkLTYxNDFmYmU5NWU2OCIsImNsYXNzIjoxfQ==
