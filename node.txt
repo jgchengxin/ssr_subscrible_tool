@@ -1,11 +1,14 @@
 安卓专用
-10yue 1ri 
-trojan://acafbab7-a75b-4238-8ed9-4adcbe886830@gdcloud.xissyun.com:21061?sni=k4.tudou211.com#V1-%E9%A6%99%E6%B8%AF04
-trojan://acafbab7-a75b-4238-8ed9-4adcbe886830@gdcloud.xissyun.com:23357?sni=k10.tudou211.com#V1-%E9%A6%99%E6%B8%AF05
-trojan://acafbab7-a75b-4238-8ed9-4adcbe886830@gdcloud.xissyun.com:47479?sni=k74.tudou211.com#V2-%E6%97%A5%E6%9C%AC04
-trojan://acafbab7-a75b-4238-8ed9-4adcbe886830@gdcloud.xissyun.com:16233?sni=k73.tudou211.com#V2-%E6%97%A5%E6%9C%AC03
-trojan://acafbab7-a75b-4238-8ed9-4adcbe886830@gdcloud.xissyun.com:21194?sni=k38.tudou211.com#V2-%E6%96%B0%E5%8A%A0%E5%9D%A103
-trojan://acafbab7-a75b-4238-8ed9-4adcbe886830@gdcloud.xissyun.com:39005?sni=k24.tudou211.com#V2-%E7%BE%8E%E5%9B%BD04
+9月10日开910910@qq.com泡跑
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro003.instconn.com:443?sni=cherry.686911.xyz#DC+%E6%97%A5%E6%9C%AC+%E8%81%94%E9%80%9A
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro002.instconn.com:20253?sni=bing.3668989.xyz#DCJP002+%E4%B8%89%E7%BD%91%E9%80%9A
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro005.instconn.com:443?sni=Phoenixrm2.686911.xyz#DC+%E7%BE%8E%E5%9B%BD+%E4%B8%89%E7%BD%91%E9%80%9A
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#DC+%E7%BE%8E%E5%9B%BD+%E7%94%B5%E4%BF%A1
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro008.instconn.com:443?sni=azure.686911.xyz#DC+%E6%96%B0%E5%8A%A0%E5%9D%A1X+%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro009.instconn.com:443?sni=sgam2.686911.xyz#DC+%E6%96%B0%E5%8A%A0%E5%9D%A1+%E8%81%94%E9%80%9A%7C%E7%A7%BB%E5%8A%A8
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro012.instconn.com:443?sni=dibai.686911.xyz#DC+%E8%BF%AA%E6%8B%9C+%E7%94%B5%E4%BF%A1
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro013.instconn.com:443?sni=vS7hO0kU.ppaoyun.top#DC+%E9%9F%A9%E5%9B%BD+%E7%94%B5%E4%BF%A1
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro019.instconn.com:443?sni=tuntro019.instconn.com#DNVNM12+%E7%94%B5%E4%BF%A1
 
 
 
