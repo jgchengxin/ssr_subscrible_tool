@@ -1,13 +1,15 @@
 安卓专用
 916重新开个泡泡20251101@qq.com  最晚到11月1日的 3号是10月1日
-trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro019.instconn.com:443?sni=tuntro019.instconn.com#%E8%B6%8A%E5%8D%97-%E7%A7%BB%E5%8A%A8+%7C+VN
-trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro019.instconn.com:443?sni=tuntro019.instconn.com#%E8%B6%8A%E5%8D%97-%E7%A7%BB%E5%8A%A8+%7C+VN
-trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro019.instconn.com:443?sni=tuntro019.instconn.com#%E8%B6%8A%E5%8D%97-1001
+916重新开个泡泡20251101@qq.com  最晚到11月1日的
+trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%E9%A6%99%E6%B8%AF
+trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%E9%A6%99%E6%B8%AF
+trojan://51f3947c-1d83-47fc-982a-4733d53fc399@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0
+trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro002.instconn.com:20253?sni=bing.3668989.xyz#%E6%97%A5%E6%9C%AC-%E4%B8%AD%E8%BD%AC+%7C+JP-2
+trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro002.instconn.com:20253?sni=bing.3668989.xyz#%E6%97%A5%E6%9C%AC-%E4%B8%AD%E8%BD%AC+%7C+JP-2
 trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro000.instconn.com:443?sni=hkip5.686911.xyz#%E9%A6%99%E6%B8%AF-%E7%A7%BB%E5%8A%A8+%7C+HK-1
 trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro003.instconn.com:443?sni=cherry.686911.xyz#%E6%97%A5%E6%9C%AC-%E5%85%A8%E7%BD%91+%7C+JP-4
-trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro002.instconn.com:20253?sni=bing.3668989.xyz#%E6%97%A5%E6%9C%AC-%E4%B8%AD%E8%BD%AC+%7C+JP-2
+trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro005.instconn.com:443?sni=Phoenixrm2.686911.xyz#%E7%BE%8E%E5%9B%BD-%E7%94%B5%E4%BF%A1+%7C+US-2
 trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#%E7%BE%8E%E5%9B%BD-%E8%81%94%E9%80%9A+%7C+US-3
-trojan://e3460db8-6399-4a80-8b68-006097f984fc@tuntro008.instconn.com:443?sni=azure.686911.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%A7%BB%E5%8A%A8+%7C+SG-1
 
 最晚11月1日账号11110000@qq.com和账号20251100@qq.com极简
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuavj+aXpei/nuaOpeWJjeivt+eCueabtOaWsOiuoumYhSIsDQogICJhZGQiOiAiNC53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIwNCIsDQogICJpZCI6ICI4YjcwMzgyMC03MDVkLTMzZTItYjk0Yi04OWJhMDlmNTdiNDgiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
